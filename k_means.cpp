@@ -2,7 +2,7 @@
 #include <vector>
 #include <ctime>
 
-#include "opencv342.h"
+#include "opencv.h"
 
 using namespace std;
 
