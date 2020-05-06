@@ -3,7 +3,6 @@
 #include <ctime>
 
 #include "QuadTree.h"
-#include "opencv.h"
 
 using namespace std;
 
